@@ -11,6 +11,7 @@ object Config {
     const val jvmTarget = "1.8"
     const val getDefaultProguardFiles = "proguard-android-optimize.txt"
     const val proguardFiles = "proguard-rules.pro"
+    const val enableViewBinding = true
 
 
 }
